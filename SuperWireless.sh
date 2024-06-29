@@ -3,6 +3,7 @@
 ## Divirtam-se, com responsabilidade crianças! ;)
 ## Antigo, mas atualizado em 26/02/2022
 ##12/03/2022 Incluindo opção DesfazerEspecifico para, quando necessário, rodar airmon-ng apenas para colocar interface especifica em multicast.
+# Dia 25/04/2022 data de inserção ao GitHub https://github.com/apologialinux/SuperWifi
 # Text Modes
 bold=$(tput bold) # Negrito
 # Text format reset
